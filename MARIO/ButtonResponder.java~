@@ -1,0 +1,14 @@
+/**
+ * Implement this interface to respond to the clicks on a button.
+ * 
+ * @author Sven van Nigtevecht
+ * @version 1.0
+ */
+public interface ButtonResponder  
+{
+    /**
+     * This method will be called on you from a button.
+     * The button puts itself as a parameter.
+     */
+    public void buttonPressed(Button button);
+}

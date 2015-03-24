@@ -1,0 +1,32 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+
+/**
+ * Another world the buttons are in.
+ * 
+ * @author Sven van Nigtevecht
+ * @version 1.0
+ */
+public class OtherWorld extends World implements ButtonResponder
+{
+    private World firstWorld;
+    
+    /**
+     * Constructor for objects of class OtherWorld.
+     */
+    public OtherWorld(GreenfootImage background, World worldToOpen)
+    {
+        super(600, 400, 1);
+        setBackground(background);
+        firstWorld = worldToOpen;
+    }
+    
+    /**
+     * All buttons in the MenuWorld can call this method.
+     */
+    public void buttonPressed(Button button)
+    {
+        if ("Back".equals(button.getTitle()) ) {
+            // open first world
+        }
+    }
+}

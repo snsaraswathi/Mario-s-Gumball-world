@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=thesubject
+comment0.target=points(Mario)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ addScoreForCoins()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=void\ addScoreForSpecialCoins()
+comment5.params=
+comment5.target=void\ addScore()
+numComments=6

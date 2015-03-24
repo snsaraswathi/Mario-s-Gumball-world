@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=getMapX\ getMapY
+comment0.target=SpecialCoin(int,\ int)
+comment1.params=
+comment1.target=void\ removeFromList()
+comment2.params=
+comment2.target=void\ incrementCount()
+numComments=3

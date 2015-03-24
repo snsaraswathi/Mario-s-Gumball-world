@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getX()
+comment1.params=
+comment1.target=int\ getY()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeFromList()
+comment4.params=
+comment4.target=void\ incrementCount()
+comment5.params=
+comment5.target=void\ removefromWorld()
+numComments=6

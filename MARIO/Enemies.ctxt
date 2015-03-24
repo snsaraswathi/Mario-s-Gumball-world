@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=e
+comment1.target=void\ add(Enemies)
+comment2.params=
+comment2.target=void\ removeFromList()
+comment3.params=
+comment3.target=void\ removefromWorld()
+comment4.params=clss
+comment4.target=boolean\ canSee(java.lang.Class)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+numComments=7

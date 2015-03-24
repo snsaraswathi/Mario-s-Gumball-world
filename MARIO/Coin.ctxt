@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coin()
+comment1.params=getMapX\ getMapY
+comment1.target=Coin(int,\ int)
+comment2.params=
+comment2.target=void\ removeFromList()
+comment3.params=
+comment3.target=void\ incrementCount()
+numComments=4
